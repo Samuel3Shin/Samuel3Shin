@@ -1,16 +1,28 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient"><br/>
+</p>
+<h1 align="center">
+Hi there I'm Samuel👋
+</h1>
+<h3 align="center">Portfolio</h3>
+<p align="center">
+  <a href="https://samuel3shin.xyz/">
+    https://samuel3shin.xyz/
+  </a>
+</p>
 
-<!--
-**Samuel3Shin/Samuel3Shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Reach Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel3-shin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+  </a>
+  <a href="mailto:shinsamu@usc.edu">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
+<br />
+<br />
 
-Here are some ideas to get you started:
+<hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
