@@ -6,8 +6,8 @@ Hi there I'm Samuel👋
 </h1>
 <h3 align="center">Portfolio</h3>
 <p align="center">
-  <a href="https://samuel3shin.xyz/">
-    https://samuel3shin.xyz/
+  <a href="https://samuel3shin.com/">
+    https://samuel3shin.com/
   </a>
 </p>
 
