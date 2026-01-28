@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://samuel3shin.com">
-    <img src="https://img.shields.io/badge/Portfolio-samuel3shin.com-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/samuel3shin.com-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/samuel3-shin/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
